@@ -1,4 +1,6 @@
 # orga_de_datos_100204_TP4
+Nombre: Camila Belén Sebellin
+Padrón: 100.204
 
 ## Consigna: 2
 
